@@ -1,3 +1,4 @@
+- 👋 Hi, I’m Arun
 - 🌱 I’m currently learning about Solidity and React.
 - 👀 I’m interested in web development, blockchain, and machine learning.
 - 💞️ I’m looking for internships in blockchain and related fields.
